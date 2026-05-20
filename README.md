@@ -192,9 +192,7 @@ chats/
 ## 🔮 Coming Soon
 
 - [ ] FCM Push Notifications
-- [ ] Image sharing in chat
 - [ ] Message delete
-- [ ] Group chat
 
 ---
 
