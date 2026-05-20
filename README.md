@@ -183,12 +183,6 @@ chats/
 
 ---
 
-## 📸 Screenshots
-
-> Add your app screenshots here
-
----
-
 ## 🔮 Coming Soon
 
 - [ ] FCM Push Notifications
