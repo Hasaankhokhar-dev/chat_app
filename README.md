@@ -200,8 +200,7 @@ chats/
 
 ## 👨‍💻 Author
 
-**Muhammad**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+**Muhammad Hasaan Altaf**
 
 ---
 
